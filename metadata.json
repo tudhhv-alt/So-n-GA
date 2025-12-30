@@ -1,0 +1,7 @@
+{
+  "name": "Soạn Giáo Án 2345 - Tiểu Học",
+  "description": "Ứng dụng hỗ trợ giáo viên tiểu học soạn giáo án theo công văn 2345/BGDĐT-GDTH, tích hợp năng lực số và xử lý tài liệu hình ảnh bằng AI.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
